@@ -6,7 +6,7 @@ module.exports = {
     ast: 'pub/ast',
     com: 'pub/com',
     utl: 'pub/utl',
-    'xueyan-react-protal': '../src'
+    'xueyan-react-portal': '../src'
   },
   module: {
     externals: {

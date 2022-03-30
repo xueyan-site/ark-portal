@@ -1,10 +1,10 @@
-# xueyan-react-protal
+# xueyan-react-portal
 
-React protal component
+React portal component
 
 ## Document
 
-Please see <https://xueyan.site/xueyan-react-protal>.
+Please see <https://xueyan.site/xueyan-react-portal>.
 
 ## Develop
 

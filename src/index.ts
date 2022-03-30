@@ -1,3 +1,3 @@
-export { Protal } from './protal'
+export { Portal } from './portal'
 
-export type { ProtalProps } from './protal'
+export type { PortalProps } from './portal'

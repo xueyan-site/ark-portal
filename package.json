@@ -1,14 +1,14 @@
 {
-  "name": "xueyan-react-protal",
+  "name": "xueyan-react-portal",
   "version": "1.0.0",
   "author": "xueyan-site <xueyan@xueyan.site>",
   "license": "LGPL-3.0",
-  "description": "react protal component",
+  "description": "react portal component",
   "main": "dist/node",
   "types": "dist/def",
   "module": "dist/web",
   "keywords": [
-    "protal",
+    "portal",
     "react",
     "xueyan",
     "component",
@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/xueyan-site/xueyan-react-protal.git"
+    "url": "https://github.com/xueyan-site/xueyan-react-portal.git"
   },
   "files": [
     "dist/**/*"

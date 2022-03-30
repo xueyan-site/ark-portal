@@ -1,10 +1,10 @@
 import React from 'react'
-import { Protal } from 'xueyan-react-protal'
+import { Portal } from 'xueyan-react-portal'
 
 export default function Main() {
   return (
     <div style={{ width: '200px', height: '200px', backgroundColor: '#f93' }}>
-      <Protal>
+      <Portal>
         <div
           style={{ 
             width: '200px',
@@ -12,7 +12,7 @@ export default function Main() {
             backgroundColor: '#39f'
           }}
         />
-      </Protal>
+      </Portal>
     </div>
   )
 }
