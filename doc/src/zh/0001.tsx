@@ -6,11 +6,6 @@ const MARK1 = `
 
 \`\`\`ts
 class Portal extends Component<PortalProps> {}
-
-interface PortalProps {
-  children: React.ReactNode // 子节点
-  container?: Element       // 挂载点
-}
 \`\`\`
 
 ## PortalProps
