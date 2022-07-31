@@ -8,7 +8,7 @@ module.exports = {
     'ast': 'pub/ast',
     'com': 'pub/com',
     'utl': 'pub/utl',
-    'xueyan-react-portal': '../src'
+    'ark-portal': '../src'
   },
   serve: {
     port: 12004

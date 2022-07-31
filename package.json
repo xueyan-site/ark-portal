@@ -1,9 +1,9 @@
 {
-  "name": "xueyan-react-portal",
+  "name": "ark-portal",
   "version": "1.0.0",
   "author": "xueyan-site <xueyan@xueyan.site>",
   "license": "LGPL-3.0",
-  "description": "react portal component",
+  "description": "Portal component in a react kit",
   "main": "dist/node",
   "types": "dist/def",
   "module": "dist/web",
@@ -16,14 +16,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/xueyan-site/xueyan-react-portal.git"
+    "url": "https://github.com/xueyan-site/ark-portal.git"
   },
   "files": [
     "dist/**/*"
   ],
   "scripts": {
-    "start": "xt start",
-    "build": "xt build"
+    "dev": "sdin dev",
+    "build": "sdin build"
   },
   "dependencies": {
     "@babel/runtime": "^7.12.0"

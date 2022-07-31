@@ -1,8 +1,8 @@
 {
-  "name": "xueyan-react-portal-doc",
+  "name": "ark-portal-doc",
   "version": "1.0.0",
   "author": "xueyan-site <xueyan@xueyan.site>",
-  "description": "xueyan-react-portal document",
+  "description": "ark-portal document",
   "private": true,
   "scripts": {
     "start": "xt start",
